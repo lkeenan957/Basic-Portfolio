@@ -1,16 +1,19 @@
 
-
-
-form{
-  width: 600px;
-  margin: 0px auto;
-  background-color: red;
-  border: 0px solid transparent;
-
+.form{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 650px;
+  height: 600px;
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-left: -10px;
 }
 
-fieldset{
-  border: 0px;
+form{
+  background-color: white;
 }
 
 label{
