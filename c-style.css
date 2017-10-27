@@ -1,0 +1,34 @@
+
+
+
+form{
+  width: 600px;
+  margin: 0px auto;
+  background-color: red;
+  border: 0px solid transparent;
+
+}
+
+fieldset{
+  border: 0px;
+}
+
+label{
+  display: block;
+  width: 500px;
+  font: 18px;
+
+}
+
+input{
+  width: 500px;
+  height: 25px;
+}
+
+textarea{
+  width: 500px;
+  height: 170px;
+}
+.btn{
+  width: 50px;
+}
